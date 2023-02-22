@@ -9,8 +9,9 @@
       ]
     },
     "data": {
-      "scheme": "http",
+      "scheme": "https",
       "host": "theveilapp.page.link",
+      "pathPrefix": "/download",
     }
   }
 ]
