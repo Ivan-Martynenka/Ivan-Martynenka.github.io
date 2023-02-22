@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pl.Veil",
+      "sha256_cert_fingerprints": [
+        "4A:00:F8:83:96:27:EA:CA:AF:0C:8E:94:7B:84:76:EF:11:3E:68:9F:B6:E0:A8:17:26:AC:33:01:FE:4C:DC:DF"
+      ]
+    }
+  }
+]
